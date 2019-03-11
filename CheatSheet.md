@@ -1,5 +1,5 @@
 # Java-Cheat-Sheet
-Java Cheat Sheet
+                                            Java Cheat Sheet
 
 Object oriented programming concepts
 - **Encapsulation** – this is concerned with hiding the implementation details and only exposing
@@ -219,7 +219,7 @@ ORMs
        ▪ 1 st level came with Hibernate 1.0 where 2nd level came with Hibernate 3.
        ▪ 1 st level is session specific (local) while 2nd level is shared by sessions (global)
 
-Database Knowledge
+                                        Database Knowledge
 
 Database Drivers
 - Java Database Connectivity (JDBC)
@@ -293,7 +293,7 @@ Cursor
        ▪ Uses a temporary copy of the data
        ▪ Creates a copy and is safer to use an update command
 
-Waterfall Process
+                                    Waterfall Process
 
 Stages
 - Requirement gathering and documentation. Phase 1
@@ -340,7 +340,7 @@ Waterfall Facts
     o When requirements are clear and specific. They do not change for the most part
     o Use agile if project requirements could change drastically
 
-Common Questions
+                                Common Questions
 
 Difference between == and .equals()
 - X.equals(y) means the references x and y are holding objects that are equal
